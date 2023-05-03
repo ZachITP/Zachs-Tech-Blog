@@ -68,6 +68,10 @@ JavaScript, Handlebars, CSS, Node Js, Express, VS Code,
 
 Check out more of my work at https://github.com/ZachITP
 
+## acknowledgments
+
+Special thanks to the guys at my IT job for answering my questions and helping trouble shoot my work.
+
 ## License
 
 MIT Copyright (c) 2023 Zach Hanson
